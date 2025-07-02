@@ -19,11 +19,11 @@ Leverage GPT-based AI models, Gradio UI, and vector similarity search techniques
 
 🛠️ Tech Stack
 
-Programming: Python.
-LLM & Embeddings: OpenAI API, Hugging Face Transformers.
-Vector DB: FAISS.
-Frameworks: LangChain.
-UI: Gradio.
+- Programming: Python.
+- LLM & Embeddings: OpenAI API, Hugging Face Transformers.
+- Vector DB: FAISS.
+- Frameworks: LangChain.
+- UI: Gradio.
 
 🏢 Use Case: Nestlé HR Automation
 This chatbot is tailored to streamline employee support within Nestlé’s HR department by:
