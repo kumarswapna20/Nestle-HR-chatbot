@@ -1,2 +1,2 @@
 # Nestle-HR-chatbot
-Leverage GPT-based AI models, Gradio UI, and vector similarity search techniques to automate information retrieval from HR documentation, providing quick and accurate answers to employee inquiries.
+This project demonstrates the development of a Conversational AI Chatbot designed to respond to user queries using information extracted from internal PDF documents. The initiative supports Nestlé’s Human Resources (HR) department, with the goal of improving operational efficiency and information accessibility through an intuitive AI-driven interface.
